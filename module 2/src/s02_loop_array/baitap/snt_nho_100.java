@@ -1,4 +1,4 @@
-package s02_loop.baitap;
+package s02_loop_array.baitap;
 
 public class snt_nho_100 {
     public static void main(String[] args) {

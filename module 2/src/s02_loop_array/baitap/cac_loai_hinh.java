@@ -1,4 +1,4 @@
-package s02_loop.baitap;
+package s02_loop_array.baitap;
 
 import java.util.Scanner;
 
